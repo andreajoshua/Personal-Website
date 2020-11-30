@@ -1,1 +1,1 @@
-Testing
+This is my in-progress website to showcase my past projects, current projects, and writing samples. I look forward into delving into the web dev world and keeping myself accountable on what I'm working on. Thanks for checking it out!
